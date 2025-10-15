@@ -20,4 +20,4 @@ Backend: Python, Django
 
 Frontend: HTML, CSS, Bootstrap (or preferred styling library)
 
-Database: SQLite (or PostgreSQL/MySQL)
+Database: SQLite 
